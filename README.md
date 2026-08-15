@@ -12,7 +12,6 @@ I am completing a Master in Business Analytics and Data Science at Universite In
 - [AutoValuate](https://github.com/ABDELMOUTALEB7/autovaluate): explainable used-car price estimation with a grounded RAG consultant
 - [Credit Risk Prediction](https://github.com/ABDELMOUTALEB7/credit-risk-model): imbalanced classification, model comparison, threshold analysis, and reporting
 - [Casting Defect Detection](https://github.com/ABDELMOUTALEB7/Casting-Defect-Detection-TensorFlow-): CNN-based industrial visual inspection
-- [NYC Taxi Demand Forecasting](https://github.com/ABDELMOUTALEB7/nyc-taxi-event-impact-dashboard-demand-forecasting-sarimax): temporal analysis and SARIMAX forecasting
 
 ## Core practice
 
